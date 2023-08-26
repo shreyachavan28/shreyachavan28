@@ -1,3 +1,4 @@
+![logo](https://github.com/shreyachavan28/shreyachavan28/blob/main/Screenshot%202023-08-26%20103840.png)
 <h1 align="center">Hi 👋, I'm SHREYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
