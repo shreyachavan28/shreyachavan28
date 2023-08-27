@@ -1,4 +1,4 @@
-![logo](https://github.com/shreyachavan28/shreyachavan28/blob/main/background.png)
+![logo](https://github.com/shreyachavan28/shreyachavan28/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm SHREYA</h1>
 <h3 align="center">A passionate full stack developer from Indiaa</h3>
 
